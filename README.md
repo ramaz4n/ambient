@@ -1,1 +1,1 @@
-# ambient
+No adaptive
